@@ -83,7 +83,7 @@ Packages:
 
     MIT License
 
-    Copyright (c) 2022 Matheus Ferreira
+    Copyright (c) 2022 Renan Ramazzini
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
